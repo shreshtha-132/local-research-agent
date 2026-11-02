@@ -1,3 +1,12 @@
+# Original tutorial code, kept for comparison with the improved version in this repo.
+#
+# Source: "How to Build a Personal Web Research AI Agent with Ollama and Qwen"
+# by Darsh Shah, freeCodeCamp:
+# https://www.freecodecamp.org/news/build-a-personal-ai-web-research-agent-with-ollama-and-qwen/
+# All credit for this file goes to the original author. The only change is that
+# search_web() uses DuckDuckGo instead of Ollama's web search API, which needs paid
+# credits. This file is not covered by this repo's MIT license.
+
 
 import json
 import requests

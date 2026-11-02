@@ -98,4 +98,4 @@ Ideas and PRs welcome.
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE), except [`tutorial/research_agent_original.py`](tutorial/research_agent_original.py), which is Darsh Shah's tutorial code included with credit for comparison.
